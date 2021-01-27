@@ -29,7 +29,8 @@ INSTALLMENTS_PURCHASES: Total amount of installment purchases
 CASH_ADVANCE: Total cash-advance amount  
 PURCHASES_ FREQUENCY: Frequency of purchases (Percent of months with at least one  purchase)  
 ONEOFF_PURCHASES_FREQUENCY: Frequency of one-off-purchases  
-PURCHASES_INSTALLMENTS_FREQUENCY: Frequency of installment purchases  CASH_ADVANCE_ FREQUENCY: Cash-Advance frequency  
+PURCHASES_INSTALLMENTS_FREQUENCY: Frequency of installment purchases  
+CASH_ADVANCE_ FREQUENCY: Cash-Advance frequency  
 AVERAGE_PURCHASE_TRX: Average amount per purchase transaction  
 CASH_ADVANCE_TRX: Average amount per cash-advance transaction  
 PURCHASES_TRX: Average amount per purchase transaction  
