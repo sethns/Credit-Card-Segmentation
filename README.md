@@ -36,4 +36,5 @@ PURCHASES_TRX: Average amount per purchase transaction
 CREDIT_LIMIT: Credit limit  
 PAYMENTS: Total payments (due amount paid by the customer to decrease their statement  balance) in the period  
 MINIMUM_PAYMENTS: Total minimum payments due in the period.  
-PRC_FULL_PAYMEN: Percentage of months with full payment of the due statement balance  TENURE: Number of months as a customer 
+PRC_FULL_PAYMEN: Percentage of months with full payment of the due statement balance  
+TENURE: Number of months as a customer 
